@@ -1,0 +1,27 @@
+form#pay-form {
+    margin-bottom: 25px;
+}
+form#pay-form #amount {
+    float: left;
+}
+form#pay-form #xx {
+    float: left;
+    margin-top: -1px;
+}
+form#pay-form span#dollar {
+    float: left;
+    font-size: 20px;
+    margin-right: 5px;
+    padding-top: 3px;
+}
+#pay-form input:disabled {
+    box-shadow: none !important;
+}
+a.toggle-child-cats {
+    float: left;
+    margin-right: 5px;
+}
+a.remove-pay-notice {
+    display: block;
+    margin-bottom: 18px;
+}
